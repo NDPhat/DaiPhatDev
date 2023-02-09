@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/26BRuzHtLlLywLANa/giphy.gif" width="100"> I'm Dai Phat (Nguyễn Đại Phát) from Viet Nam </h1>
+<h1 align="center"><img src="https://media.giphy.com/media/26BRuzHtLlLywLANa/giphy.gif" width="100"> I'm Dai Phat (Nguyễn Đại Phát) </h1>
 
 ### 👨‍💻 Hi, About me:
 
